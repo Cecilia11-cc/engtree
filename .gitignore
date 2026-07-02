@@ -160,3 +160,6 @@ Desktop.ini
 # Misc
 .coze-logs
 .codegraph
+
+# 敏感资源文件
+assets/
